@@ -23,7 +23,9 @@
 
 **LINKS QUE PODEM AJUDAR A APRENDER OS CÓDIGOS**
 
-[Sintaxe dos códigos (em inglê)](https://guides.github.com/features/mastering-markdown/)
+[Sintaxe dos códigos  em inglês](https://guides.github.com/features/mastering-markdown/)
 
-[Sintaxe dos códigos  (em portugu)](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#sintaxe-do-markdown)
+[Sintaxe dos códigos em português](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#sintaxe-do-markdown)
+
+
 
