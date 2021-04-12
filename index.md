@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Bem-vindos a minha página, criei ela com o propóstito de mostrar o que aprendi durante os estudos da plataforma utilizando o Markdown.
 
-You can use the [editor on GitHub](https://github.com/Gabriela764/-GREMLIN-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+**MARKDOWN**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Como foi criado?**
 
-### Markdown
+*Ele foi criado  em 2004 por John Gruber e Aaron Swartz.*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**O que é Markdown?**
 
-```markdown
-Syntax highlighted code block
+*Ele é um sitema de formatação aberto que torna a escrita e a leitura mais simples.*
 
-# Header 1
-## Header 2
-### Header 3
+**Qual é a sua função?**
 
-- Bulleted
-- List
+*Ele marca as mudanças feitos nos textos (subtítulos, negritos, itálicos, etc).*
 
-1. Numbered
-2. List
+**Usar o Markdown é útil porque:**
 
-**Bold** and _Italic_ and `Code` text
+- Ele é simples de aprender.
+-  Economiza tempo.
+-  Simples de usar.
+-  Códigos facéis.
 
-[Link](url) and ![Image](src)
-```
+**LINKS QUE PODEM AJUDAR A APRENDER OS CÓDIGOS**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Sintaxe dos códigos (em inglê)](https://guides.github.com/features/mastering-markdown/)
 
-### Jekyll Themes
+[Sintaxe dos códigos  (em portugu)](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_pt-BR.md#sintaxe-do-markdown)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gabriela764/-GREMLIN-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
